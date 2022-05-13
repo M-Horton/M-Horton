@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Horton
-- 👀 I’m interested in fisheries ecology specialising on small pelagic species in Southern Africa
+- 👀 I’m interested in fisheries ecology, specialising on small pelagic species in Southern Africa
 
 - 📫 How to reach me hrtmat004@myuct.ac.za
 
