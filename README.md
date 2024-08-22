@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-Horton
-- 👀 I’m interested in fisheries ecology, specialising on small pelagic species in Southern Africa
+- 👀 I’m interested in fisheries science and ecology. I work on a wide variety of projects that span from stock assessment models for small pelagics to MSC conditions on ETP species. 
 
-- 📫 How to reach me hrtmat004@myuct.ac.za
+- 📫 How to reach me matt.c.horton@outlook.com
 
 <!---
 M-Horton/M-Horton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
