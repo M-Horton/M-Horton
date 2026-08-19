@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @M-Horton
-- 👀 I’m interested in fisheries science and ecology. I work on a wide variety of projects that span from stock assessment models for small pelagics to MSC conditions on ETP species. 
+### Hi, I'm Matt 👋
 
-- 📫 How to reach me matt.c.horton@outlook.com
+I'm a fisheries scientist working at the intersection of stock assessment, ecological risk, and statistical modelling. My work spans from stock assessment models for small pelagic fisheries to quantitative risk assessments supporting Marine Stewardship Council (MSC) certification conditions on endangered, threatened, and protected (ETP) species — the seabirds, sea turtles, and marine mammals that interact with commercial fisheries.
 
-<!---
-M-Horton/M-Horton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔬 **Focus areas:** fisheries stock assessment; bycatch and interaction risk for seabirds and marine mammals; population sustainability thresholds (Potential Biological Removal and related reference points); and Bayesian statistical modelling of the sparse, messy, real-world data that ecological risk assessment usually has to work with
+- 🧰 **Toolkit:** R end-to-end — Bayesian modelling in Stan and rstanarm for custom hierarchical and GLM-style models, tidyverse for data wrangling, and R Markdown for reproducible technical reports that regenerate directly from the underlying analysis code rather than being hand-assembled after the fact
+- 📈 **Currently working on:** multi-species Bayesian assessments of cryptic (unobserved) mortality in trawl fisheries. Rather than counting only the deaths an observer directly witnesses, I model the fishing interaction itself as the primary observed quantity, then estimate mortality — including birds injured and released that die later, unseen — as a downstream probabilistic consequence. The aim is a fuller, more defensible picture of fishery impact than direct observation alone can give, feeding directly into sustainability comparisons against management reference points
+- 📫 **Reach me:** matt.c.horton@outlook.com
